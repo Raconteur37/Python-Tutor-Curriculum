@@ -36,6 +36,14 @@ if (num < 5):
     print(f'{num} is less than 5')
 else:
     print(f'{num} is not less than 5')
+    
+if (num == 4 or num == 3):
+    print(f'{num} is 4 or 3 who knows')
+    
+if (num > 5 and num == 6):
+    print(f'{num} is 6 and greater than 5!')    
+        
+    
 print()
     
 # Strings and elifs

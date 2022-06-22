@@ -6,6 +6,8 @@ integer = 2 # Integer inside of a variable
 
 flt = 2.5 # Float inside of a variable
 
+boolean = False # Boolean inside of a variable
+
 # The f in the print statement means formatting a literal variable into a string
 print()
 print(f'This is our word: {word}') 

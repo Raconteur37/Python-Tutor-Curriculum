@@ -1,4 +1,5 @@
 import math
+from random import randint
 
 word = "Hello!" # String inside of a variable
 
@@ -55,8 +56,13 @@ print()
 
 # Advanced math types
 
+ranNum = randint(1,100)
+print(f'This is our random number: {ranNum}')
+print()
+
 floorNum = math.floor(4.7)
 print(f'This is our floorNum: {floorNum}')
+print()
 
 ceilNum = math.ceil(4.2)
 print(f'This is our ceilNum: {ceilNum}')

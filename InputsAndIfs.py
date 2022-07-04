@@ -2,7 +2,7 @@ inp = input(f'Choose anything: ')
 print(f'Your inp is: {inp}')
 print()
 
-realInt = int(input(f'Choose an integer: '))
+realInt = int(input(f'Choose an integer: ')) 
 print(f'This is our int: {realInt}')
 print()
 
@@ -62,6 +62,7 @@ if (string.find("f") > -1): # Take what things return and compare
 else:
     print(f'f is not in the string')
 print()
+
 
     
     
